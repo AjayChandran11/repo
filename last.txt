@@ -1,8 +1,3 @@
 created in master 
 AjayChandran11-1 updated this text
-Alphabet- A
-<<<<<<< HEAD
-Alphabet-D
-=======
-Alphabet-C
->>>>>>> update last.txt
+Alphabet- ABC
